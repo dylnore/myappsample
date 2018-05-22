@@ -1,2 +1,2 @@
-This is the README file.
-It displays things in a pretty format.
+#MyApp
+This is my app
